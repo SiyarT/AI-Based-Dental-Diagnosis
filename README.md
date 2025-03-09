@@ -1,5 +1,7 @@
 # AI-Based Dental Diagnosis from X-Rays / KI-gestützte Zahndiagnose aus Röntgenbildern
 
+Final project for the Building AI course
+
 ## Summary / Zusammenfassung
 This project aims to develop an AI model that can analyze dental X-rays to detect problems such as cavities, gaps, tartar, and other issues. The system will also suggest potential treatments like fillings, extractions, root canals, or fissure sealants.
 
