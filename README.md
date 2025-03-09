@@ -37,6 +37,11 @@ Viele Zahnprobleme sind ohne Röntgenaufnahmen nicht leicht erkennbar. Die früh
 - Beschaffung einer ausreichenden Menge an qualitativ hochwertigen, gelabelten Daten.
 - Ethische Bedenken hinsichtlich des Datenschutzes von Patienten.
 
+- ## Installation / Installation
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/AI-Dental-Diagnosis.git
+
 ## What next? / Nächste Schritte
 - Expanding the dataset with more diverse images.
 - Collaborating with dental professionals for model validation.
