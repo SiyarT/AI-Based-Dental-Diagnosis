@@ -40,7 +40,7 @@ Viele Zahnprobleme sind ohne Röntgenaufnahmen nicht leicht erkennbar. Die früh
 - ## Installation / Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/AI-Dental-Diagnosis.git
+   git clone https://github.com/SiyarT/AI-Based-Dental-Diagnosis.git
 
 ## What next? / Nächste Schritte
 - Expanding the dataset with more diverse images.
